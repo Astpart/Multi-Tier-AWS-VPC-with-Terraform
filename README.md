@@ -106,11 +106,11 @@ Even if one tier is compromised, lateral movement is restricted by security grou
 ## Relevance to Role
 
 This lab demonstrates:
-- ✅ Cloud DMZ architecture knowledge
-- ✅ Infrastructure automation skills
-- ✅ Security segmentation understanding
-- ✅ High availability design
-- ✅ Infrastructure-as-Code implementation
+- Cloud DMZ architecture knowledge
+- Infrastructure automation skills
+- Security segmentation understanding
+- High availability design
+- Infrastructure-as-Code implementation
 
 Built as preparation for network automation and cloud infrastructure role.
 
