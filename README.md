@@ -116,4 +116,4 @@ Built as preparation for network automation and cloud infrastructure role.
 
 ## Author
 Created: November 2025  
-Purpose: Interview preparation demonstrating automation and cloud networking capabilities
+
