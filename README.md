@@ -87,11 +87,6 @@ terraform apply
 terraform output
 ```
 
-### Destroy (Important: Avoid charges)
-```bash
-terraform destroy
-```
-
 ## Design Decisions
 
 ### Why No NAT Gateway?
