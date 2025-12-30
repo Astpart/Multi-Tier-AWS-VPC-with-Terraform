@@ -112,7 +112,6 @@ This lab demonstrates:
 - High availability design
 - Infrastructure-as-Code implementation
 
-Built as preparation for network automation and cloud infrastructure role.
 
 ## Author
 Created: November 2025  
